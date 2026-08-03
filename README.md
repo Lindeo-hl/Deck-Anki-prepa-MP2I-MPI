@@ -17,7 +17,7 @@ Bonne chance dans vos révisions !
 
 ## English
 
-This Anki deck was created by three students during our time in CPGE (Classes Préparatoires aux Grandes Écoles), a highly selective two-year intensive preparatory program in France designed to prepare students for competitive entrance examinations to the country’s top engineering and scientific schools.
+This Anki deck was created by two friends and me during our time in CPGE (Classes Préparatoires aux Grandes Écoles), a highly selective two-year intensive preparatory program in France designed to prepare students for competitive entrance examinations to the country’s top engineering and scientific schools.
 
 The deck covers the complete curriculum of the MP2I and MPI tracks (Mathematics, Physics, Engineering and Computer Science), as well as additional topics covered in class beyond the official syllabus. The mathematics deck can also be used by students in the MPSI/MP tracks, which share a large part of their mathematics curriculum with MP2I/MPI.
 
