@@ -1,4 +1,4 @@
-# Deck-Anki-prepa-MP2I-MPI-MPSI-MP
+# Deck Anki prépa MP2I/MPI et MPSI/MP
 
 ## Français
 
